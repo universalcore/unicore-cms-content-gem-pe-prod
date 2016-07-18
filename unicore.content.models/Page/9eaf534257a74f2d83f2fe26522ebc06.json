@@ -6,12 +6,12 @@
   "primary_category": "a27e8d5552bd40d78d84d949b7d750cb", 
   "created_at": "2016-07-18T00:08:24.414143+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-07-18T00:08:24.414378+00:00", 
+  "modified_at": "2016-07-18T00:18:07.949393+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 9, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "como-ganar-dinero-y-divertirse-en-el-intento", 
   "uuid": "9eaf534257a74f2d83f2fe26522ebc06"
